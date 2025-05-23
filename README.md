@@ -20,7 +20,7 @@ A simple and clean task management application built using Django. This app allo
 ##  Setup Instructions
 
 1. Clone the repository
-   -- git clone https://github.com/SayantikaGhosh/Todo_list.git
+   (git clone https://github.com/SayantikaGhosh/Todo_list.git)
 2. cd todo_list
 3. python -m venv env
 4. env\Scripts\activate ( Windows)
